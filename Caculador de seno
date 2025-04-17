@@ -1,0 +1,11 @@
+#include <iostream>
+#include  <math.h>
+
+using namespace std;
+
+int main(){
+    float y = sin (2); 
+    cout << " seno de 2 e:" << y << endl;
+    
+	return 0;
+}
